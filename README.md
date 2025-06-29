@@ -1,1 +1,1 @@
-# 1-landing-spotify-zamariac
+# landing-spotify-zamariac
